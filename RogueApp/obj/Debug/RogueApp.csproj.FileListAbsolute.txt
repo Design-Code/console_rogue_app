@@ -1,0 +1,26 @@
+C:\Users\josh\Desktop\RogueApp\RogueApp\bin\Debug\RogueApp.exe.config
+C:\Users\josh\Desktop\RogueApp\RogueApp\bin\Debug\terminal8x8.png
+C:\Users\josh\Desktop\RogueApp\RogueApp\bin\Debug\RogueApp.exe
+C:\Users\josh\Desktop\RogueApp\RogueApp\bin\Debug\RogueApp.pdb
+C:\Users\josh\Desktop\RogueApp\RogueApp\bin\Debug\OpenTK.dll
+C:\Users\josh\Desktop\RogueApp\RogueApp\bin\Debug\RLNET.dll
+C:\Users\josh\Desktop\RogueApp\RogueApp\bin\Debug\RogueSharp.dll
+C:\Users\josh\Desktop\RogueApp\RogueApp\bin\Debug\OpenTK.xml
+C:\Users\josh\Desktop\RogueApp\RogueApp\bin\Debug\RogueSharp.xml
+C:\Users\josh\Desktop\RogueApp\RogueApp\obj\Debug\RogueApp.csprojResolveAssemblyReference.cache
+C:\Users\josh\Desktop\RogueApp\RogueApp\obj\Debug\RogueApp.exe
+C:\Users\josh\Desktop\RogueApp\RogueApp\obj\Debug\RogueApp.pdb
+F:\Users\Josh Seichepine\Documents\VS PROJECTS\RogueApp\RogueApp\bin\Debug\terminal8x8.png
+F:\Users\Josh Seichepine\Documents\VS PROJECTS\RogueApp\RogueApp\bin\Debug\RogueApp.exe.config
+F:\Users\Josh Seichepine\Documents\VS PROJECTS\RogueApp\RogueApp\bin\Debug\RogueApp.exe
+F:\Users\Josh Seichepine\Documents\VS PROJECTS\RogueApp\RogueApp\bin\Debug\RogueApp.pdb
+F:\Users\Josh Seichepine\Documents\VS PROJECTS\RogueApp\RogueApp\bin\Debug\OpenTK.dll
+F:\Users\Josh Seichepine\Documents\VS PROJECTS\RogueApp\RogueApp\bin\Debug\RLNET.dll
+F:\Users\Josh Seichepine\Documents\VS PROJECTS\RogueApp\RogueApp\bin\Debug\RogueSharp.dll
+F:\Users\Josh Seichepine\Documents\VS PROJECTS\RogueApp\RogueApp\bin\Debug\OpenTK.xml
+F:\Users\Josh Seichepine\Documents\VS PROJECTS\RogueApp\RogueApp\bin\Debug\OpenTK.dll.config
+F:\Users\Josh Seichepine\Documents\VS PROJECTS\RogueApp\RogueApp\bin\Debug\RogueSharp.xml
+F:\Users\Josh Seichepine\Documents\VS PROJECTS\RogueApp\RogueApp\obj\Debug\RogueApp.csprojResolveAssemblyReference.cache
+F:\Users\Josh Seichepine\Documents\VS PROJECTS\RogueApp\RogueApp\obj\Debug\RogueApp.csproj.CoreCompileInputs.cache
+F:\Users\Josh Seichepine\Documents\VS PROJECTS\RogueApp\RogueApp\obj\Debug\RogueApp.exe
+F:\Users\Josh Seichepine\Documents\VS PROJECTS\RogueApp\RogueApp\obj\Debug\RogueApp.pdb
